@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">GestureControl</string>
-    <string name="accessibility_desc">Allows hand gestures to control taps, scrolls, and volume</string>
-</resources>
